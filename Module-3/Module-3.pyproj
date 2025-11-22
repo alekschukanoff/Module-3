@@ -1,0 +1,224 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>5ae993b6-757f-4ae6-bfc1-5fe8948ccb61</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>Module_3.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>Module-3</Name>
+    <RootNamespace>Module-3</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Module_3.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cat.jpg" />
+    <Content Include="frames\frame_00000.jpg" />
+    <Content Include="frames\frame_00010.jpg" />
+    <Content Include="frames\frame_00020.jpg" />
+    <Content Include="frames\frame_00030.jpg" />
+    <Content Include="frames\frame_00040.jpg" />
+    <Content Include="frames\frame_00050.jpg" />
+    <Content Include="frames\frame_00060.jpg" />
+    <Content Include="frames\frame_00070.jpg" />
+    <Content Include="frames\frame_00080.jpg" />
+    <Content Include="frames\frame_00090.jpg" />
+    <Content Include="frames\frame_00100.jpg" />
+    <Content Include="frames\frame_00110.jpg" />
+    <Content Include="frames\frame_00120.jpg" />
+    <Content Include="frames\frame_00130.jpg" />
+    <Content Include="frames\frame_00140.jpg" />
+    <Content Include="frames\frame_00150.jpg" />
+    <Content Include="frames\frame_00160.jpg" />
+    <Content Include="frames\frame_00170.jpg" />
+    <Content Include="frames\frame_00180.jpg" />
+    <Content Include="frames\frame_00190.jpg" />
+    <Content Include="frames\frame_00200.jpg" />
+    <Content Include="frames\frame_00210.jpg" />
+    <Content Include="frames\frame_00220.jpg" />
+    <Content Include="frames\frame_00230.jpg" />
+    <Content Include="frames\frame_00240.jpg" />
+    <Content Include="frames\frame_00250.jpg" />
+    <Content Include="frames\frame_00260.jpg" />
+    <Content Include="frames\frame_00270.jpg" />
+    <Content Include="frames\frame_00280.jpg" />
+    <Content Include="frames\frame_00290.jpg" />
+    <Content Include="frames\frame_00300.jpg" />
+    <Content Include="frames\frame_00310.jpg" />
+    <Content Include="frames\frame_00320.jpg" />
+    <Content Include="frames\frame_00330.jpg" />
+    <Content Include="frames\frame_00340.jpg" />
+    <Content Include="frames\frame_00350.jpg" />
+    <Content Include="frames\frame_00360.jpg" />
+    <Content Include="frames\frame_00370.jpg" />
+    <Content Include="frames\frame_00380.jpg" />
+    <Content Include="frames\frame_00390.jpg" />
+    <Content Include="frames\frame_00400.jpg" />
+    <Content Include="frames\frame_00410.jpg" />
+    <Content Include="frames\frame_00420.jpg" />
+    <Content Include="frames\frame_00430.jpg" />
+    <Content Include="frames\frame_00440.jpg" />
+    <Content Include="frames\frame_00450.jpg" />
+    <Content Include="frames\frame_00460.jpg" />
+    <Content Include="frames\frame_00470.jpg" />
+    <Content Include="frames\frame_00480.jpg" />
+    <Content Include="frames\frame_00490.jpg" />
+    <Content Include="frames\frame_00500.jpg" />
+    <Content Include="frames\frame_00510.jpg" />
+    <Content Include="frames\frame_00520.jpg" />
+    <Content Include="frames\frame_00530.jpg" />
+    <Content Include="frames\frame_00540.jpg" />
+    <Content Include="frames\frame_00550.jpg" />
+    <Content Include="frames\frame_00560.jpg" />
+    <Content Include="frames\frame_00570.jpg" />
+    <Content Include="frames\frame_00580.jpg" />
+    <Content Include="frames\frame_00590.jpg" />
+    <Content Include="frames\frame_00600.jpg" />
+    <Content Include="frames\frame_00610.jpg" />
+    <Content Include="frames\frame_00620.jpg" />
+    <Content Include="frames\frame_00630.jpg" />
+    <Content Include="frames\frame_00640.jpg" />
+    <Content Include="frames\frame_00650.jpg" />
+    <Content Include="frames\frame_00660.jpg" />
+    <Content Include="frames\frame_00670.jpg" />
+    <Content Include="frames\frame_00680.jpg" />
+    <Content Include="frames\frame_00690.jpg" />
+    <Content Include="frames\frame_00700.jpg" />
+    <Content Include="frames\frame_00710.jpg" />
+    <Content Include="frames\frame_00720.jpg" />
+    <Content Include="frames\frame_00730.jpg" />
+    <Content Include="frames\frame_00740.jpg" />
+    <Content Include="frames\frame_00750.jpg" />
+    <Content Include="frames\frame_00760.jpg" />
+    <Content Include="frames\frame_00770.jpg" />
+    <Content Include="frames\frame_00780.jpg" />
+    <Content Include="frames\frame_00790.jpg" />
+    <Content Include="frames\frame_00800.jpg" />
+    <Content Include="frames\frame_00810.jpg" />
+    <Content Include="frames\frame_00820.jpg" />
+    <Content Include="frames\frame_00830.jpg" />
+    <Content Include="frames\frame_00840.jpg" />
+    <Content Include="frames\frame_00850.jpg" />
+    <Content Include="frames\frame_00860.jpg" />
+    <Content Include="frames\frame_00870.jpg" />
+    <Content Include="frames\frame_00880.jpg" />
+    <Content Include="frames\frame_00890.jpg" />
+    <Content Include="frames\frame_00900.jpg" />
+    <Content Include="frames\frame_00910.jpg" />
+    <Content Include="frames\frame_00920.jpg" />
+    <Content Include="frames\frame_00930.jpg" />
+    <Content Include="frames\frame_00940.jpg" />
+    <Content Include="frames\frame_00950.jpg" />
+    <Content Include="frames\frame_00960.jpg" />
+    <Content Include="frames\frame_00970.jpg" />
+    <Content Include="frames\frame_00980.jpg" />
+    <Content Include="frames\frame_00990.jpg" />
+    <Content Include="frames\frame_01000.jpg" />
+    <Content Include="frames\frame_01010.jpg" />
+    <Content Include="frames\frame_01020.jpg" />
+    <Content Include="frames\frame_01030.jpg" />
+    <Content Include="frames\frame_01040.jpg" />
+    <Content Include="frames\frame_01050.jpg" />
+    <Content Include="frames\frame_01060.jpg" />
+    <Content Include="frames\frame_01070.jpg" />
+    <Content Include="frames\frame_01080.jpg" />
+    <Content Include="frames\frame_01090.jpg" />
+    <Content Include="frames\frame_01100.jpg" />
+    <Content Include="frames\frame_01110.jpg" />
+    <Content Include="frames\frame_01120.jpg" />
+    <Content Include="frames\frame_01130.jpg" />
+    <Content Include="frames\frame_01140.jpg" />
+    <Content Include="frames\frame_01150.jpg" />
+    <Content Include="frames\frame_01160.jpg" />
+    <Content Include="frames\frame_01170.jpg" />
+    <Content Include="frames\frame_01180.jpg" />
+    <Content Include="frames\frame_01190.jpg" />
+    <Content Include="frames\frame_01200.jpg" />
+    <Content Include="frames\frame_01210.jpg" />
+    <Content Include="frames\frame_01220.jpg" />
+    <Content Include="frames\frame_01230.jpg" />
+    <Content Include="frames\frame_01240.jpg" />
+    <Content Include="frames\frame_01250.jpg" />
+    <Content Include="frames\frame_01260.jpg" />
+    <Content Include="frames\frame_01270.jpg" />
+    <Content Include="frames\frame_01280.jpg" />
+    <Content Include="frames\frame_01290.jpg" />
+    <Content Include="frames\frame_01300.jpg" />
+    <Content Include="frames\frame_01310.jpg" />
+    <Content Include="frames\frame_01320.jpg" />
+    <Content Include="frames\frame_01330.jpg" />
+    <Content Include="frames\frame_01340.jpg" />
+    <Content Include="frames\frame_01350.jpg" />
+    <Content Include="frames\frame_01360.jpg" />
+    <Content Include="frames\frame_01370.jpg" />
+    <Content Include="frames\frame_01380.jpg" />
+    <Content Include="frames\frame_01390.jpg" />
+    <Content Include="frames\frame_01400.jpg" />
+    <Content Include="frames\frame_01410.jpg" />
+    <Content Include="frames\frame_01420.jpg" />
+    <Content Include="frames\frame_01430.jpg" />
+    <Content Include="frames\frame_01440.jpg" />
+    <Content Include="frames\frame_01450.jpg" />
+    <Content Include="frames\frame_01460.jpg" />
+    <Content Include="frames\frame_01470.jpg" />
+    <Content Include="frames\frame_01480.jpg" />
+    <Content Include="frames\frame_01490.jpg" />
+    <Content Include="frames\frame_01500.jpg" />
+    <Content Include="frames\frame_01510.jpg" />
+    <Content Include="frames\frame_01520.jpg" />
+    <Content Include="frames\frame_01530.jpg" />
+    <Content Include="frames\frame_01540.jpg" />
+    <Content Include="frames\frame_01550.jpg" />
+    <Content Include="frames\frame_01560.jpg" />
+    <Content Include="frames\frame_01570.jpg" />
+    <Content Include="frames\frame_01580.jpg" />
+    <Content Include="frames\frame_01590.jpg" />
+    <Content Include="frames\frame_01600.jpg" />
+    <Content Include="frames\frame_01610.jpg" />
+    <Content Include="frames\frame_01620.jpg" />
+    <Content Include="frames\frame_01630.jpg" />
+    <Content Include="frames\frame_01640.jpg" />
+    <Content Include="frames\frame_01650.jpg" />
+    <Content Include="frames\frame_01660.jpg" />
+    <Content Include="frames\frame_01670.jpg" />
+    <Content Include="frames\frame_01680.jpg" />
+    <Content Include="frames\frame_01690.jpg" />
+    <Content Include="frames\frame_01700.jpg" />
+    <Content Include="frames\frame_01710.jpg" />
+    <Content Include="frames\frame_01720.jpg" />
+    <Content Include="frames\frame_01730.jpg" />
+    <Content Include="frames\frame_01740.jpg" />
+    <Content Include="frames\frame_01750.jpg" />
+    <Content Include="frames\frame_01760.jpg" />
+    <Content Include="frames\frame_01770.jpg" />
+    <Content Include="frames\frame_01780.jpg" />
+    <Content Include="frames\frame_01790.jpg" />
+    <Content Include="recs_short.txt" />
+    <Content Include="test.mp4" />
+    <Content Include="titanic.csv" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="frames\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>
